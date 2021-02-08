@@ -12,5 +12,14 @@ This dataset resides at this [url](https://docs.google.com/spreadsheets/d/1YJt62
 
 **<p align="center">Current status of case counts for 16 institutions in the Boston area.**
 
+- - - -
+
+<p align="center">
+<img src="figs/pngs/ma_ihe_statewide_grid_per1000.png" alt="county_level" width="95%"/>
+</p>
+
+**<p align="center">Current status of case counts per 1,000 enrollment for 56 institutions statewide.**
+
+
 ## Limitations
 The dashboard for Tufts University needs to be updated daily to get at an estimate for the daily case counts and testing, and this certainly has produced errors. Additionally, the Boston University dashboard does not provide historical testing data (past one week), so the number of tests early in the semester is off.
