@@ -251,8 +251,22 @@ date,day,week,university,enrollment,url,total_tests,positive_tests
 2021-04-07,Wednesday,35,Berklee College of Music,6439,https://www.berklee.edu/btb/dashboard,1055.0,3.0
 2021-04-08,Thursday,35,Berklee College of Music,6439,https://www.berklee.edu/btb/dashboard,781.0,3.0
 2021-04-09,Friday,35,Berklee College of Music,6439,https://www.berklee.edu/btb/dashboard,798.0,2.0
-2021-04-10,Saturday,36,Berklee College of Music,6439,https://www.berklee.edu/btb/dashboard,0.0,0.0
+2021-04-10,Saturday,36,Berklee College of Music,6439,https://www.berklee.edu/btb/dashboard,1022.0,2.0
 2021-04-11,Sunday,36,Berklee College of Music,6439,https://www.berklee.edu/btb/dashboard,0.0,0.0
+2021-04-12,Monday,36,Berklee College of Music,6439,https://www.berklee.edu/btb/dashboard,0.0,0.0
+2021-04-13,Tuesday,36,Berklee College of Music,6439,https://www.berklee.edu/btb/dashboard,725.0,3.0
+2021-04-14,Wednesday,36,Berklee College of Music,6439,https://www.berklee.edu/btb/dashboard,1053.0,0.0
+2021-04-15,Thursday,36,Berklee College of Music,6439,https://www.berklee.edu/btb/dashboard,725.0,1.0
+2021-04-16,Friday,36,Berklee College of Music,6439,https://www.berklee.edu/btb/dashboard,861.0,1.0
+2021-04-17,Saturday,37,Berklee College of Music,6439,https://www.berklee.edu/btb/dashboard,560.0,1.0
+2021-04-18,Sunday,37,Berklee College of Music,6439,https://www.berklee.edu/btb/dashboard,0.0,0.0
+2021-04-19,Monday,37,Berklee College of Music,6439,https://www.berklee.edu/btb/dashboard,0.0,0.0
+2021-04-20,Tuesday,37,Berklee College of Music,6439,https://www.berklee.edu/btb/dashboard,313.0,0.0
+2021-04-21,Wednesday,37,Berklee College of Music,6439,https://www.berklee.edu/btb/dashboard,1162.0,0.0
+2021-04-22,Thursday,37,Berklee College of Music,6439,https://www.berklee.edu/btb/dashboard,663.0,1.0
+2021-04-23,Friday,37,Berklee College of Music,6439,https://www.berklee.edu/btb/dashboard,799.0,0.0
+2021-04-24,Saturday,38,Berklee College of Music,6439,https://www.berklee.edu/btb/dashboard,0.0,0.0
+2021-04-25,Sunday,38,Berklee College of Music,6439,https://www.berklee.edu/btb/dashboard,0.0,0.0
 2020-08-01,Saturday,0,The New England Conservatory of Music,782,https://necmusic.edu/nec-covid-19-testing-program,0.0,0.0
 2020-08-02,Sunday,0,The New England Conservatory of Music,782,https://necmusic.edu/nec-covid-19-testing-program,0.0,0.0
 2020-08-03,Monday,0,The New England Conservatory of Music,782,https://necmusic.edu/nec-covid-19-testing-program,0.0,0.0
@@ -505,8 +519,22 @@ date,day,week,university,enrollment,url,total_tests,positive_tests
 2021-04-07,Wednesday,35,The New England Conservatory of Music,782,https://necmusic.edu/nec-covid-19-testing-program,0.0,0.0
 2021-04-08,Thursday,35,The New England Conservatory of Music,782,https://necmusic.edu/nec-covid-19-testing-program,0.0,0.0
 2021-04-09,Friday,35,The New England Conservatory of Music,782,https://necmusic.edu/nec-covid-19-testing-program,0.0,0.0
-2021-04-10,Saturday,36,The New England Conservatory of Music,782,https://necmusic.edu/nec-covid-19-testing-program,0.0,0.0
+2021-04-10,Saturday,36,The New England Conservatory of Music,782,https://necmusic.edu/nec-covid-19-testing-program,778.0,1.0
 2021-04-11,Sunday,36,The New England Conservatory of Music,782,https://necmusic.edu/nec-covid-19-testing-program,0.0,0.0
+2021-04-12,Monday,36,The New England Conservatory of Music,782,https://necmusic.edu/nec-covid-19-testing-program,0.0,0.0
+2021-04-13,Tuesday,36,The New England Conservatory of Music,782,https://necmusic.edu/nec-covid-19-testing-program,0.0,0.0
+2021-04-14,Wednesday,36,The New England Conservatory of Music,782,https://necmusic.edu/nec-covid-19-testing-program,0.0,0.0
+2021-04-15,Thursday,36,The New England Conservatory of Music,782,https://necmusic.edu/nec-covid-19-testing-program,0.0,0.0
+2021-04-16,Friday,36,The New England Conservatory of Music,782,https://necmusic.edu/nec-covid-19-testing-program,0.0,0.0
+2021-04-17,Saturday,37,The New England Conservatory of Music,782,https://necmusic.edu/nec-covid-19-testing-program,852.0,2.0
+2021-04-18,Sunday,37,The New England Conservatory of Music,782,https://necmusic.edu/nec-covid-19-testing-program,0.0,0.0
+2021-04-19,Monday,37,The New England Conservatory of Music,782,https://necmusic.edu/nec-covid-19-testing-program,0.0,0.0
+2021-04-20,Tuesday,37,The New England Conservatory of Music,782,https://necmusic.edu/nec-covid-19-testing-program,0.0,0.0
+2021-04-21,Wednesday,37,The New England Conservatory of Music,782,https://necmusic.edu/nec-covid-19-testing-program,0.0,0.0
+2021-04-22,Thursday,37,The New England Conservatory of Music,782,https://necmusic.edu/nec-covid-19-testing-program,0.0,0.0
+2021-04-23,Friday,37,The New England Conservatory of Music,782,https://necmusic.edu/nec-covid-19-testing-program,0.0,0.0
+2021-04-24,Saturday,38,The New England Conservatory of Music,782,https://necmusic.edu/nec-covid-19-testing-program,0.0,0.0
+2021-04-25,Sunday,38,The New England Conservatory of Music,782,https://necmusic.edu/nec-covid-19-testing-program,0.0,0.0
 2020-08-01,Saturday,0,Northeastern University,21627,https://news.northeastern.edu/coronavirus/reopening/testing-dashboard/,0.0,0.0
 2020-08-02,Sunday,0,Northeastern University,21627,https://news.northeastern.edu/coronavirus/reopening/testing-dashboard/,0.0,0.0
 2020-08-03,Monday,0,Northeastern University,21627,https://news.northeastern.edu/coronavirus/reopening/testing-dashboard/,0.0,0.0
@@ -759,8 +787,22 @@ date,day,week,university,enrollment,url,total_tests,positive_tests
 2021-04-07,Wednesday,35,Northeastern University,21627,https://news.northeastern.edu/coronavirus/reopening/testing-dashboard/,3881.0,13.0
 2021-04-08,Thursday,35,Northeastern University,21627,https://news.northeastern.edu/coronavirus/reopening/testing-dashboard/,4658.0,10.0
 2021-04-09,Friday,35,Northeastern University,21627,https://news.northeastern.edu/coronavirus/reopening/testing-dashboard/,4465.0,9.0
-2021-04-10,Saturday,36,Northeastern University,21627,https://news.northeastern.edu/coronavirus/reopening/testing-dashboard/,0.0,0.0
-2021-04-11,Sunday,36,Northeastern University,21627,https://news.northeastern.edu/coronavirus/reopening/testing-dashboard/,0.0,0.0
+2021-04-10,Saturday,36,Northeastern University,21627,https://news.northeastern.edu/coronavirus/reopening/testing-dashboard/,2021.0,10.0
+2021-04-11,Sunday,36,Northeastern University,21627,https://news.northeastern.edu/coronavirus/reopening/testing-dashboard/,2819.0,5.0
+2021-04-12,Monday,36,Northeastern University,21627,https://news.northeastern.edu/coronavirus/reopening/testing-dashboard/,5148.0,3.0
+2021-04-13,Tuesday,36,Northeastern University,21627,https://news.northeastern.edu/coronavirus/reopening/testing-dashboard/,4345.0,12.0
+2021-04-14,Wednesday,36,Northeastern University,21627,https://news.northeastern.edu/coronavirus/reopening/testing-dashboard/,3940.0,12.0
+2021-04-15,Thursday,36,Northeastern University,21627,https://news.northeastern.edu/coronavirus/reopening/testing-dashboard/,3895.0,10.0
+2021-04-16,Friday,36,Northeastern University,21627,https://news.northeastern.edu/coronavirus/reopening/testing-dashboard/,3598.0,5.0
+2021-04-17,Saturday,37,Northeastern University,21627,https://news.northeastern.edu/coronavirus/reopening/testing-dashboard/,2439.0,0.0
+2021-04-18,Sunday,37,Northeastern University,21627,https://news.northeastern.edu/coronavirus/reopening/testing-dashboard/,2759.0,5.0
+2021-04-19,Monday,37,Northeastern University,21627,https://news.northeastern.edu/coronavirus/reopening/testing-dashboard/,4248.0,4.0
+2021-04-20,Tuesday,37,Northeastern University,21627,https://news.northeastern.edu/coronavirus/reopening/testing-dashboard/,4623.0,8.0
+2021-04-21,Wednesday,37,Northeastern University,21627,https://news.northeastern.edu/coronavirus/reopening/testing-dashboard/,3325.0,4.0
+2021-04-22,Thursday,37,Northeastern University,21627,https://news.northeastern.edu/coronavirus/reopening/testing-dashboard/,3744.0,12.0
+2021-04-23,Friday,37,Northeastern University,21627,https://news.northeastern.edu/coronavirus/reopening/testing-dashboard/,0.0,0.0
+2021-04-24,Saturday,38,Northeastern University,21627,https://news.northeastern.edu/coronavirus/reopening/testing-dashboard/,0.0,0.0
+2021-04-25,Sunday,38,Northeastern University,21627,https://news.northeastern.edu/coronavirus/reopening/testing-dashboard/,0.0,0.0
 2020-08-01,Saturday,0,Wentworth Institute of Technology,4516,https://wit.edu/student-life/re-entry/dashboard,0.0,0.0
 2020-08-02,Sunday,0,Wentworth Institute of Technology,4516,https://wit.edu/student-life/re-entry/dashboard,0.0,0.0
 2020-08-03,Monday,0,Wentworth Institute of Technology,4516,https://wit.edu/student-life/re-entry/dashboard,0.0,0.0
@@ -1014,7 +1056,21 @@ date,day,week,university,enrollment,url,total_tests,positive_tests
 2021-04-08,Thursday,35,Wentworth Institute of Technology,4516,https://wit.edu/student-life/re-entry/dashboard,953.0,2.0
 2021-04-09,Friday,35,Wentworth Institute of Technology,4516,https://wit.edu/student-life/re-entry/dashboard,0.0,0.0
 2021-04-10,Saturday,36,Wentworth Institute of Technology,4516,https://wit.edu/student-life/re-entry/dashboard,125.0,0.0
-2021-04-11,Sunday,36,Wentworth Institute of Technology,4516,https://wit.edu/student-life/re-entry/dashboard,0.0,0.0
+2021-04-11,Sunday,36,Wentworth Institute of Technology,4516,https://wit.edu/student-life/re-entry/dashboard,1028.0,1.0
+2021-04-12,Monday,36,Wentworth Institute of Technology,4516,https://wit.edu/student-life/re-entry/dashboard,516.0,4.0
+2021-04-13,Tuesday,36,Wentworth Institute of Technology,4516,https://wit.edu/student-life/re-entry/dashboard,54.0,2.0
+2021-04-14,Wednesday,36,Wentworth Institute of Technology,4516,https://wit.edu/student-life/re-entry/dashboard,54.0,1.0
+2021-04-15,Thursday,36,Wentworth Institute of Technology,4516,https://wit.edu/student-life/re-entry/dashboard,562.0,2.0
+2021-04-16,Friday,36,Wentworth Institute of Technology,4516,https://wit.edu/student-life/re-entry/dashboard,679.0,0.0
+2021-04-17,Saturday,37,Wentworth Institute of Technology,4516,https://wit.edu/student-life/re-entry/dashboard,679.0,0.0
+2021-04-18,Sunday,37,Wentworth Institute of Technology,4516,https://wit.edu/student-life/re-entry/dashboard,360.0,1.0
+2021-04-19,Monday,37,Wentworth Institute of Technology,4516,https://wit.edu/student-life/re-entry/dashboard,360.0,0.0
+2021-04-20,Tuesday,37,Wentworth Institute of Technology,4516,https://wit.edu/student-life/re-entry/dashboard,360.0,0.0
+2021-04-21,Wednesday,37,Wentworth Institute of Technology,4516,https://wit.edu/student-life/re-entry/dashboard,360.0,1.0
+2021-04-22,Thursday,37,Wentworth Institute of Technology,4516,https://wit.edu/student-life/re-entry/dashboard,360.0,1.0
+2021-04-23,Friday,37,Wentworth Institute of Technology,4516,https://wit.edu/student-life/re-entry/dashboard,359.0,0.0
+2021-04-24,Saturday,38,Wentworth Institute of Technology,4516,https://wit.edu/student-life/re-entry/dashboard,57.0,0.0
+2021-04-25,Sunday,38,Wentworth Institute of Technology,4516,https://wit.edu/student-life/re-entry/dashboard,0.0,0.0
 2020-08-01,Saturday,0,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
 2020-08-02,Sunday,0,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
 2020-08-03,Monday,0,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
@@ -1245,30 +1301,44 @@ date,day,week,university,enrollment,url,total_tests,positive_tests
 2021-03-16,Tuesday,32,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
 2021-03-17,Wednesday,32,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,225.0,0.0
 2021-03-18,Thursday,32,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,109.0,1.0
-2021-03-19,Friday,32,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,153.0,0.0
+2021-03-19,Friday,32,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
 2021-03-20,Saturday,33,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
 2021-03-21,Sunday,33,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
-2021-03-22,Monday,33,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
-2021-03-23,Tuesday,33,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
-2021-03-24,Wednesday,33,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
-2021-03-25,Thursday,33,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
-2021-03-26,Friday,33,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
+2021-03-22,Monday,33,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,153.0,0.0
+2021-03-23,Tuesday,33,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,82.0,0.0
+2021-03-24,Wednesday,33,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,146.0,0.0
+2021-03-25,Thursday,33,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,125.0,0.0
+2021-03-26,Friday,33,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,92.0,0.0
 2021-03-27,Saturday,34,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
 2021-03-28,Sunday,34,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
-2021-03-29,Monday,34,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
-2021-03-30,Tuesday,34,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
-2021-03-31,Wednesday,34,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
-2021-04-01,Thursday,34,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
-2021-04-02,Friday,34,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
+2021-03-29,Monday,34,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,166.0,0.0
+2021-03-30,Tuesday,34,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,86.0,0.0
+2021-03-31,Wednesday,34,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,136.0,1.0
+2021-04-01,Thursday,34,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,167.0,0.0
+2021-04-02,Friday,34,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,90.0,0.0
 2021-04-03,Saturday,35,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
 2021-04-04,Sunday,35,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
-2021-04-05,Monday,35,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
-2021-04-06,Tuesday,35,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
-2021-04-07,Wednesday,35,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
-2021-04-08,Thursday,35,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
-2021-04-09,Friday,35,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
+2021-04-05,Monday,35,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,167.0,0.0
+2021-04-06,Tuesday,35,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,95.0,0.0
+2021-04-07,Wednesday,35,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,134.0,1.0
+2021-04-08,Thursday,35,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,155.0,0.0
+2021-04-09,Friday,35,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,68.0,0.0
 2021-04-10,Saturday,36,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
 2021-04-11,Sunday,36,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
+2021-04-12,Monday,36,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,180.0,0.0
+2021-04-13,Tuesday,36,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,74.0,0.0
+2021-04-14,Wednesday,36,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,180.0,2.0
+2021-04-15,Thursday,36,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
+2021-04-16,Friday,36,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
+2021-04-17,Saturday,37,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
+2021-04-18,Sunday,37,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
+2021-04-19,Monday,37,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
+2021-04-20,Tuesday,37,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
+2021-04-21,Wednesday,37,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
+2021-04-22,Thursday,37,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
+2021-04-23,Friday,37,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
+2021-04-24,Saturday,38,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
+2021-04-25,Sunday,38,Simmons University,6082,https://www.simmons.edu/coronavirus/protecting-our-community/testing-dashboard,0.0,0.0
 2020-08-01,Saturday,0,Massachusetts College of Art and Design,2087,https://massart.edu/covid-19-campus-dashboard,0.0,0.0
 2020-08-02,Sunday,0,Massachusetts College of Art and Design,2087,https://massart.edu/covid-19-campus-dashboard,0.0,0.0
 2020-08-03,Monday,0,Massachusetts College of Art and Design,2087,https://massart.edu/covid-19-campus-dashboard,0.0,0.0
@@ -1518,11 +1588,25 @@ date,day,week,university,enrollment,url,total_tests,positive_tests
 2021-04-04,Sunday,35,Massachusetts College of Art and Design,2087,https://massart.edu/covid-19-campus-dashboard,106.0,0.0
 2021-04-05,Monday,35,Massachusetts College of Art and Design,2087,https://massart.edu/covid-19-campus-dashboard,106.0,0.0
 2021-04-06,Tuesday,35,Massachusetts College of Art and Design,2087,https://massart.edu/covid-19-campus-dashboard,106.0,0.0
-2021-04-07,Wednesday,35,Massachusetts College of Art and Design,2087,https://massart.edu/covid-19-campus-dashboard,0.0,0.0
-2021-04-08,Thursday,35,Massachusetts College of Art and Design,2087,https://massart.edu/covid-19-campus-dashboard,0.0,0.0
-2021-04-09,Friday,35,Massachusetts College of Art and Design,2087,https://massart.edu/covid-19-campus-dashboard,0.0,0.0
-2021-04-10,Saturday,36,Massachusetts College of Art and Design,2087,https://massart.edu/covid-19-campus-dashboard,0.0,0.0
-2021-04-11,Sunday,36,Massachusetts College of Art and Design,2087,https://massart.edu/covid-19-campus-dashboard,0.0,0.0
+2021-04-07,Wednesday,35,Massachusetts College of Art and Design,2087,https://massart.edu/covid-19-campus-dashboard,110.0,1.0
+2021-04-08,Thursday,35,Massachusetts College of Art and Design,2087,https://massart.edu/covid-19-campus-dashboard,120.0,2.0
+2021-04-09,Friday,35,Massachusetts College of Art and Design,2087,https://massart.edu/covid-19-campus-dashboard,110.0,1.0
+2021-04-10,Saturday,36,Massachusetts College of Art and Design,2087,https://massart.edu/covid-19-campus-dashboard,110.0,1.0
+2021-04-11,Sunday,36,Massachusetts College of Art and Design,2087,https://massart.edu/covid-19-campus-dashboard,110.0,1.0
+2021-04-12,Monday,36,Massachusetts College of Art and Design,2087,https://massart.edu/covid-19-campus-dashboard,110.0,1.0
+2021-04-13,Tuesday,36,Massachusetts College of Art and Design,2087,https://massart.edu/covid-19-campus-dashboard,110.0,1.0
+2021-04-14,Wednesday,36,Massachusetts College of Art and Design,2087,https://massart.edu/covid-19-campus-dashboard,92.0,0.0
+2021-04-15,Thursday,36,Massachusetts College of Art and Design,2087,https://massart.edu/covid-19-campus-dashboard,92.0,0.0
+2021-04-16,Friday,36,Massachusetts College of Art and Design,2087,https://massart.edu/covid-19-campus-dashboard,92.0,0.0
+2021-04-17,Saturday,37,Massachusetts College of Art and Design,2087,https://massart.edu/covid-19-campus-dashboard,92.0,0.0
+2021-04-18,Sunday,37,Massachusetts College of Art and Design,2087,https://massart.edu/covid-19-campus-dashboard,92.0,0.0
+2021-04-19,Monday,37,Massachusetts College of Art and Design,2087,https://massart.edu/covid-19-campus-dashboard,92.0,0.0
+2021-04-20,Tuesday,37,Massachusetts College of Art and Design,2087,https://massart.edu/covid-19-campus-dashboard,92.0,0.0
+2021-04-21,Wednesday,37,Massachusetts College of Art and Design,2087,https://massart.edu/covid-19-campus-dashboard,0.0,0.0
+2021-04-22,Thursday,37,Massachusetts College of Art and Design,2087,https://massart.edu/covid-19-campus-dashboard,0.0,0.0
+2021-04-23,Friday,37,Massachusetts College of Art and Design,2087,https://massart.edu/covid-19-campus-dashboard,0.0,0.0
+2021-04-24,Saturday,38,Massachusetts College of Art and Design,2087,https://massart.edu/covid-19-campus-dashboard,0.0,0.0
+2021-04-25,Sunday,38,Massachusetts College of Art and Design,2087,https://massart.edu/covid-19-campus-dashboard,0.0,0.0
 2020-08-01,Saturday,0,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,0.0,0.0
 2020-08-02,Sunday,0,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,0.0,0.0
 2020-08-03,Monday,0,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,0.0,0.0
@@ -1762,21 +1846,35 @@ date,day,week,university,enrollment,url,total_tests,positive_tests
 2021-03-25,Thursday,33,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,0.0,0.0
 2021-03-26,Friday,33,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,0.0,0.0
 2021-03-27,Saturday,34,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,0.0,0.0
-2021-03-28,Sunday,34,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,23636.0,42.0
+2021-03-28,Sunday,34,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,23640.0,43.0
 2021-03-29,Monday,34,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,0.0,0.0
 2021-03-30,Tuesday,34,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,0.0,0.0
 2021-03-31,Wednesday,34,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,0.0,0.0
 2021-04-01,Thursday,34,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,0.0,0.0
 2021-04-02,Friday,34,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,0.0,0.0
 2021-04-03,Saturday,35,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,0.0,0.0
-2021-04-04,Sunday,35,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,22982.0,27.0
+2021-04-04,Sunday,35,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,22998.0,31.0
 2021-04-05,Monday,35,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,0.0,0.0
 2021-04-06,Tuesday,35,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,0.0,0.0
 2021-04-07,Wednesday,35,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,0.0,0.0
 2021-04-08,Thursday,35,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,0.0,0.0
 2021-04-09,Friday,35,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,0.0,0.0
 2021-04-10,Saturday,36,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,0.0,0.0
-2021-04-11,Sunday,36,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,6.0,0.0
+2021-04-11,Sunday,36,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,22562.0,22.0
+2021-04-12,Monday,36,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,0.0,0.0
+2021-04-13,Tuesday,36,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,0.0,0.0
+2021-04-14,Wednesday,36,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,0.0,0.0
+2021-04-15,Thursday,36,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,0.0,0.0
+2021-04-16,Friday,36,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,0.0,0.0
+2021-04-17,Saturday,37,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,0.0,0.0
+2021-04-18,Sunday,37,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,21217.0,19.0
+2021-04-19,Monday,37,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,0.0,0.0
+2021-04-20,Tuesday,37,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,0.0,0.0
+2021-04-21,Wednesday,37,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,0.0,0.0
+2021-04-22,Thursday,37,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,0.0,0.0
+2021-04-23,Friday,37,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,0.0,0.0
+2021-04-24,Saturday,38,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,0.0,0.0
+2021-04-25,Sunday,38,Massachusetts Institute of Technology,11574,https://covidapps.mit.edu/dashboard,7.0,0.0
 2020-08-01,Saturday,0,Emmanuel College,2222,https://www.emmanuel.edu/forward/testing-dashboard.html,0.0,0.0
 2020-08-02,Sunday,0,Emmanuel College,2222,https://www.emmanuel.edu/forward/testing-dashboard.html,0.0,0.0
 2020-08-03,Monday,0,Emmanuel College,2222,https://www.emmanuel.edu/forward/testing-dashboard.html,0.0,0.0
@@ -2031,6 +2129,20 @@ date,day,week,university,enrollment,url,total_tests,positive_tests
 2021-04-09,Friday,35,Emmanuel College,2222,https://www.emmanuel.edu/forward/testing-dashboard.html,601.0,2.0
 2021-04-10,Saturday,36,Emmanuel College,2222,https://www.emmanuel.edu/forward/testing-dashboard.html,0.0,3.0
 2021-04-11,Sunday,36,Emmanuel College,2222,https://www.emmanuel.edu/forward/testing-dashboard.html,0.0,0.0
+2021-04-12,Monday,36,Emmanuel College,2222,https://www.emmanuel.edu/forward/testing-dashboard.html,696.0,0.0
+2021-04-13,Tuesday,36,Emmanuel College,2222,https://www.emmanuel.edu/forward/testing-dashboard.html,440.0,2.0
+2021-04-14,Wednesday,36,Emmanuel College,2222,https://www.emmanuel.edu/forward/testing-dashboard.html,217.0,1.0
+2021-04-15,Thursday,36,Emmanuel College,2222,https://www.emmanuel.edu/forward/testing-dashboard.html,543.0,1.0
+2021-04-16,Friday,36,Emmanuel College,2222,https://www.emmanuel.edu/forward/testing-dashboard.html,505.0,1.0
+2021-04-17,Saturday,37,Emmanuel College,2222,https://www.emmanuel.edu/forward/testing-dashboard.html,0.0,0.0
+2021-04-18,Sunday,37,Emmanuel College,2222,https://www.emmanuel.edu/forward/testing-dashboard.html,0.0,0.0
+2021-04-19,Monday,37,Emmanuel College,2222,https://www.emmanuel.edu/forward/testing-dashboard.html,467.0,0.0
+2021-04-20,Tuesday,37,Emmanuel College,2222,https://www.emmanuel.edu/forward/testing-dashboard.html,588.0,0.0
+2021-04-21,Wednesday,37,Emmanuel College,2222,https://www.emmanuel.edu/forward/testing-dashboard.html,193.0,0.0
+2021-04-22,Thursday,37,Emmanuel College,2222,https://www.emmanuel.edu/forward/testing-dashboard.html,518.0,1.0
+2021-04-23,Friday,37,Emmanuel College,2222,https://www.emmanuel.edu/forward/testing-dashboard.html,556.0,0.0
+2021-04-24,Saturday,38,Emmanuel College,2222,https://www.emmanuel.edu/forward/testing-dashboard.html,0.0,1.0
+2021-04-25,Sunday,38,Emmanuel College,2222,https://www.emmanuel.edu/forward/testing-dashboard.html,0.0,0.0
 2020-08-01,Saturday,0,MCPHS University,7064,https://www.mcphs.edu/covid/testing-statistics,0.0,0.0
 2020-08-02,Sunday,0,MCPHS University,7064,https://www.mcphs.edu/covid/testing-statistics,0.0,0.0
 2020-08-03,Monday,0,MCPHS University,7064,https://www.mcphs.edu/covid/testing-statistics,0.0,0.0
@@ -2278,13 +2390,27 @@ date,day,week,university,enrollment,url,total_tests,positive_tests
 2021-04-02,Friday,34,MCPHS University,7064,https://www.mcphs.edu/covid/testing-statistics,0.0,0.0
 2021-04-03,Saturday,35,MCPHS University,7064,https://www.mcphs.edu/covid/testing-statistics,0.0,0.0
 2021-04-04,Sunday,35,MCPHS University,7064,https://www.mcphs.edu/covid/testing-statistics,0.0,0.0
-2021-04-05,Monday,35,MCPHS University,7064,https://www.mcphs.edu/covid/testing-statistics,0.0,0.0
+2021-04-05,Monday,35,MCPHS University,7064,https://www.mcphs.edu/covid/testing-statistics,3813.0,2.0
 2021-04-06,Tuesday,35,MCPHS University,7064,https://www.mcphs.edu/covid/testing-statistics,0.0,0.0
 2021-04-07,Wednesday,35,MCPHS University,7064,https://www.mcphs.edu/covid/testing-statistics,0.0,0.0
 2021-04-08,Thursday,35,MCPHS University,7064,https://www.mcphs.edu/covid/testing-statistics,0.0,0.0
 2021-04-09,Friday,35,MCPHS University,7064,https://www.mcphs.edu/covid/testing-statistics,0.0,0.0
 2021-04-10,Saturday,36,MCPHS University,7064,https://www.mcphs.edu/covid/testing-statistics,0.0,0.0
 2021-04-11,Sunday,36,MCPHS University,7064,https://www.mcphs.edu/covid/testing-statistics,0.0,0.0
+2021-04-12,Monday,36,MCPHS University,7064,https://www.mcphs.edu/covid/testing-statistics,4537.0,7.0
+2021-04-13,Tuesday,36,MCPHS University,7064,https://www.mcphs.edu/covid/testing-statistics,0.0,0.0
+2021-04-14,Wednesday,36,MCPHS University,7064,https://www.mcphs.edu/covid/testing-statistics,0.0,0.0
+2021-04-15,Thursday,36,MCPHS University,7064,https://www.mcphs.edu/covid/testing-statistics,0.0,0.0
+2021-04-16,Friday,36,MCPHS University,7064,https://www.mcphs.edu/covid/testing-statistics,0.0,0.0
+2021-04-17,Saturday,37,MCPHS University,7064,https://www.mcphs.edu/covid/testing-statistics,0.0,0.0
+2021-04-18,Sunday,37,MCPHS University,7064,https://www.mcphs.edu/covid/testing-statistics,0.0,0.0
+2021-04-19,Monday,37,MCPHS University,7064,https://www.mcphs.edu/covid/testing-statistics,0.0,0.0
+2021-04-20,Tuesday,37,MCPHS University,7064,https://www.mcphs.edu/covid/testing-statistics,0.0,0.0
+2021-04-21,Wednesday,37,MCPHS University,7064,https://www.mcphs.edu/covid/testing-statistics,0.0,0.0
+2021-04-22,Thursday,37,MCPHS University,7064,https://www.mcphs.edu/covid/testing-statistics,0.0,0.0
+2021-04-23,Friday,37,MCPHS University,7064,https://www.mcphs.edu/covid/testing-statistics,0.0,0.0
+2021-04-24,Saturday,38,MCPHS University,7064,https://www.mcphs.edu/covid/testing-statistics,0.0,0.0
+2021-04-25,Sunday,38,MCPHS University,7064,https://www.mcphs.edu/covid/testing-statistics,0.0,0.0
 2020-08-01,Saturday,0,Boston University,34657,https://www.bu.edu/healthway/community-dashboard/,0.0,0.0
 2020-08-02,Sunday,0,Boston University,34657,https://www.bu.edu/healthway/community-dashboard/,0.0,0.0
 2020-08-03,Monday,0,Boston University,34657,https://www.bu.edu/healthway/community-dashboard/,0.0,0.0
@@ -2538,7 +2664,21 @@ date,day,week,university,enrollment,url,total_tests,positive_tests
 2021-04-08,Thursday,35,Boston University,34657,https://www.bu.edu/healthway/community-dashboard/,4447.0,4.0
 2021-04-09,Friday,35,Boston University,34657,https://www.bu.edu/healthway/community-dashboard/,4616.0,3.0
 2021-04-10,Saturday,36,Boston University,34657,https://www.bu.edu/healthway/community-dashboard/,3789.0,10.0
-2021-04-11,Sunday,36,Boston University,34657,https://www.bu.edu/healthway/community-dashboard/,0.0,0.0
+2021-04-11,Sunday,36,Boston University,34657,https://www.bu.edu/healthway/community-dashboard/,2966.0,2.0
+2021-04-12,Monday,36,Boston University,34657,https://www.bu.edu/healthway/community-dashboard/,4360.0,4.0
+2021-04-13,Tuesday,36,Boston University,34657,https://www.bu.edu/healthway/community-dashboard/,5090.0,14.0
+2021-04-14,Wednesday,36,Boston University,34657,https://www.bu.edu/healthway/community-dashboard/,4829.0,8.0
+2021-04-15,Thursday,36,Boston University,34657,https://www.bu.edu/healthway/community-dashboard/,5104.0,12.0
+2021-04-16,Friday,36,Boston University,34657,https://www.bu.edu/healthway/community-dashboard/,4817.0,5.0
+2021-04-17,Saturday,37,Boston University,34657,https://www.bu.edu/healthway/community-dashboard/,3239.0,8.0
+2021-04-18,Sunday,37,Boston University,34657,https://www.bu.edu/healthway/community-dashboard/,2969.0,5.0
+2021-04-19,Monday,37,Boston University,34657,https://www.bu.edu/healthway/community-dashboard/,3627.0,8.0
+2021-04-20,Tuesday,37,Boston University,34657,https://www.bu.edu/healthway/community-dashboard/,4367.0,4.0
+2021-04-21,Wednesday,37,Boston University,34657,https://www.bu.edu/healthway/community-dashboard/,5009.0,2.0
+2021-04-22,Thursday,37,Boston University,34657,https://www.bu.edu/healthway/community-dashboard/,4767.0,8.0
+2021-04-23,Friday,37,Boston University,34657,https://www.bu.edu/healthway/community-dashboard/,4920.0,8.0
+2021-04-24,Saturday,38,Boston University,34657,https://www.bu.edu/healthway/community-dashboard/,3616.0,6.0
+2021-04-25,Sunday,38,Boston University,34657,https://www.bu.edu/healthway/community-dashboard/,0.0,0.0
 2020-08-01,Saturday,0,Emerson College,4573,https://www.emerson.edu/one-emerson/dashboard,0.0,0.0
 2020-08-02,Sunday,0,Emerson College,4573,https://www.emerson.edu/one-emerson/dashboard,0.0,0.0
 2020-08-03,Monday,0,Emerson College,4573,https://www.emerson.edu/one-emerson/dashboard,32.0,1.0
@@ -2786,13 +2926,27 @@ date,day,week,university,enrollment,url,total_tests,positive_tests
 2021-04-02,Friday,34,Emerson College,4573,https://www.emerson.edu/one-emerson/dashboard,0.0,0.0
 2021-04-03,Saturday,35,Emerson College,4573,https://www.emerson.edu/one-emerson/dashboard,0.0,0.0
 2021-04-04,Sunday,35,Emerson College,4573,https://www.emerson.edu/one-emerson/dashboard,0.0,0.0
-2021-04-05,Monday,35,Emerson College,4573,https://www.emerson.edu/one-emerson/dashboard,4797.0,20.0
+2021-04-05,Monday,35,Emerson College,4573,https://www.emerson.edu/one-emerson/dashboard,5709.0,25.0
 2021-04-06,Tuesday,35,Emerson College,4573,https://www.emerson.edu/one-emerson/dashboard,0.0,0.0
 2021-04-07,Wednesday,35,Emerson College,4573,https://www.emerson.edu/one-emerson/dashboard,0.0,0.0
 2021-04-08,Thursday,35,Emerson College,4573,https://www.emerson.edu/one-emerson/dashboard,0.0,0.0
 2021-04-09,Friday,35,Emerson College,4573,https://www.emerson.edu/one-emerson/dashboard,0.0,0.0
 2021-04-10,Saturday,36,Emerson College,4573,https://www.emerson.edu/one-emerson/dashboard,0.0,0.0
 2021-04-11,Sunday,36,Emerson College,4573,https://www.emerson.edu/one-emerson/dashboard,0.0,0.0
+2021-04-12,Monday,36,Emerson College,4573,https://www.emerson.edu/one-emerson/dashboard,5455.0,10.0
+2021-04-13,Tuesday,36,Emerson College,4573,https://www.emerson.edu/one-emerson/dashboard,0.0,0.0
+2021-04-14,Wednesday,36,Emerson College,4573,https://www.emerson.edu/one-emerson/dashboard,0.0,0.0
+2021-04-15,Thursday,36,Emerson College,4573,https://www.emerson.edu/one-emerson/dashboard,0.0,0.0
+2021-04-16,Friday,36,Emerson College,4573,https://www.emerson.edu/one-emerson/dashboard,0.0,0.0
+2021-04-17,Saturday,37,Emerson College,4573,https://www.emerson.edu/one-emerson/dashboard,0.0,0.0
+2021-04-18,Sunday,37,Emerson College,4573,https://www.emerson.edu/one-emerson/dashboard,0.0,0.0
+2021-04-19,Monday,37,Emerson College,4573,https://www.emerson.edu/one-emerson/dashboard,4285.0,0.0
+2021-04-20,Tuesday,37,Emerson College,4573,https://www.emerson.edu/one-emerson/dashboard,0.0,0.0
+2021-04-21,Wednesday,37,Emerson College,4573,https://www.emerson.edu/one-emerson/dashboard,0.0,0.0
+2021-04-22,Thursday,37,Emerson College,4573,https://www.emerson.edu/one-emerson/dashboard,0.0,0.0
+2021-04-23,Friday,37,Emerson College,4573,https://www.emerson.edu/one-emerson/dashboard,0.0,0.0
+2021-04-24,Saturday,38,Emerson College,4573,https://www.emerson.edu/one-emerson/dashboard,0.0,0.0
+2021-04-25,Sunday,38,Emerson College,4573,https://www.emerson.edu/one-emerson/dashboard,0.0,0.0
 2020-08-01,Saturday,0,Suffolk University,7186,https://www.suffolk.edu/student-life/health-wellness/coronavirus-health-advisory/campus-reopening-2020/suffolk-covid-19-testing-data,0.0,0.0
 2020-08-02,Sunday,0,Suffolk University,7186,https://www.suffolk.edu/student-life/health-wellness/coronavirus-health-advisory/campus-reopening-2020/suffolk-covid-19-testing-data,0.0,0.0
 2020-08-03,Monday,0,Suffolk University,7186,https://www.suffolk.edu/student-life/health-wellness/coronavirus-health-advisory/campus-reopening-2020/suffolk-covid-19-testing-data,0.0,0.0
@@ -3042,11 +3196,25 @@ date,day,week,university,enrollment,url,total_tests,positive_tests
 2021-04-04,Sunday,35,Suffolk University,7186,https://www.suffolk.edu/student-life/health-wellness/coronavirus-health-advisory/campus-reopening-2020/suffolk-covid-19-testing-data,0.0,0.0
 2021-04-05,Monday,35,Suffolk University,7186,https://www.suffolk.edu/student-life/health-wellness/coronavirus-health-advisory/campus-reopening-2020/suffolk-covid-19-testing-data,753.0,5.0
 2021-04-06,Tuesday,35,Suffolk University,7186,https://www.suffolk.edu/student-life/health-wellness/coronavirus-health-advisory/campus-reopening-2020/suffolk-covid-19-testing-data,514.0,0.0
-2021-04-07,Wednesday,35,Suffolk University,7186,https://www.suffolk.edu/student-life/health-wellness/coronavirus-health-advisory/campus-reopening-2020/suffolk-covid-19-testing-data,0.0,0.0
-2021-04-08,Thursday,35,Suffolk University,7186,https://www.suffolk.edu/student-life/health-wellness/coronavirus-health-advisory/campus-reopening-2020/suffolk-covid-19-testing-data,0.0,0.0
-2021-04-09,Friday,35,Suffolk University,7186,https://www.suffolk.edu/student-life/health-wellness/coronavirus-health-advisory/campus-reopening-2020/suffolk-covid-19-testing-data,0.0,0.0
-2021-04-10,Saturday,36,Suffolk University,7186,https://www.suffolk.edu/student-life/health-wellness/coronavirus-health-advisory/campus-reopening-2020/suffolk-covid-19-testing-data,0.0,0.0
+2021-04-07,Wednesday,35,Suffolk University,7186,https://www.suffolk.edu/student-life/health-wellness/coronavirus-health-advisory/campus-reopening-2020/suffolk-covid-19-testing-data,607.0,2.0
+2021-04-08,Thursday,35,Suffolk University,7186,https://www.suffolk.edu/student-life/health-wellness/coronavirus-health-advisory/campus-reopening-2020/suffolk-covid-19-testing-data,454.0,4.0
+2021-04-09,Friday,35,Suffolk University,7186,https://www.suffolk.edu/student-life/health-wellness/coronavirus-health-advisory/campus-reopening-2020/suffolk-covid-19-testing-data,551.0,2.0
+2021-04-10,Saturday,36,Suffolk University,7186,https://www.suffolk.edu/student-life/health-wellness/coronavirus-health-advisory/campus-reopening-2020/suffolk-covid-19-testing-data,41.0,0.0
 2021-04-11,Sunday,36,Suffolk University,7186,https://www.suffolk.edu/student-life/health-wellness/coronavirus-health-advisory/campus-reopening-2020/suffolk-covid-19-testing-data,0.0,0.0
+2021-04-12,Monday,36,Suffolk University,7186,https://www.suffolk.edu/student-life/health-wellness/coronavirus-health-advisory/campus-reopening-2020/suffolk-covid-19-testing-data,810.0,2.0
+2021-04-13,Tuesday,36,Suffolk University,7186,https://www.suffolk.edu/student-life/health-wellness/coronavirus-health-advisory/campus-reopening-2020/suffolk-covid-19-testing-data,501.0,0.0
+2021-04-14,Wednesday,36,Suffolk University,7186,https://www.suffolk.edu/student-life/health-wellness/coronavirus-health-advisory/campus-reopening-2020/suffolk-covid-19-testing-data,566.0,0.0
+2021-04-15,Thursday,36,Suffolk University,7186,https://www.suffolk.edu/student-life/health-wellness/coronavirus-health-advisory/campus-reopening-2020/suffolk-covid-19-testing-data,453.0,0.0
+2021-04-16,Friday,36,Suffolk University,7186,https://www.suffolk.edu/student-life/health-wellness/coronavirus-health-advisory/campus-reopening-2020/suffolk-covid-19-testing-data,495.0,0.0
+2021-04-17,Saturday,37,Suffolk University,7186,https://www.suffolk.edu/student-life/health-wellness/coronavirus-health-advisory/campus-reopening-2020/suffolk-covid-19-testing-data,49.0,0.0
+2021-04-18,Sunday,37,Suffolk University,7186,https://www.suffolk.edu/student-life/health-wellness/coronavirus-health-advisory/campus-reopening-2020/suffolk-covid-19-testing-data,0.0,0.0
+2021-04-19,Monday,37,Suffolk University,7186,https://www.suffolk.edu/student-life/health-wellness/coronavirus-health-advisory/campus-reopening-2020/suffolk-covid-19-testing-data,362.0,0.0
+2021-04-20,Tuesday,37,Suffolk University,7186,https://www.suffolk.edu/student-life/health-wellness/coronavirus-health-advisory/campus-reopening-2020/suffolk-covid-19-testing-data,573.0,1.0
+2021-04-21,Wednesday,37,Suffolk University,7186,https://www.suffolk.edu/student-life/health-wellness/coronavirus-health-advisory/campus-reopening-2020/suffolk-covid-19-testing-data,0.0,0.0
+2021-04-22,Thursday,37,Suffolk University,7186,https://www.suffolk.edu/student-life/health-wellness/coronavirus-health-advisory/campus-reopening-2020/suffolk-covid-19-testing-data,0.0,0.0
+2021-04-23,Friday,37,Suffolk University,7186,https://www.suffolk.edu/student-life/health-wellness/coronavirus-health-advisory/campus-reopening-2020/suffolk-covid-19-testing-data,0.0,0.0
+2021-04-24,Saturday,38,Suffolk University,7186,https://www.suffolk.edu/student-life/health-wellness/coronavirus-health-advisory/campus-reopening-2020/suffolk-covid-19-testing-data,0.0,0.0
+2021-04-25,Sunday,38,Suffolk University,7186,https://www.suffolk.edu/student-life/health-wellness/coronavirus-health-advisory/campus-reopening-2020/suffolk-covid-19-testing-data,0.0,0.0
 2020-08-01,Saturday,0,Harvard University,31566,https://www.harvard.edu/coronavirus/harvard-university-wide-covid-19-testing-dashboard,0.0,0.0
 2020-08-02,Sunday,0,Harvard University,31566,https://www.harvard.edu/coronavirus/harvard-university-wide-covid-19-testing-dashboard,1607.0,2.0
 2020-08-03,Monday,0,Harvard University,31566,https://www.harvard.edu/coronavirus/harvard-university-wide-covid-19-testing-dashboard,0.0,0.0
@@ -3297,10 +3465,24 @@ date,day,week,university,enrollment,url,total_tests,positive_tests
 2021-04-05,Monday,35,Harvard University,31566,https://www.harvard.edu/coronavirus/harvard-university-wide-covid-19-testing-dashboard,4329.0,3.0
 2021-04-06,Tuesday,35,Harvard University,31566,https://www.harvard.edu/coronavirus/harvard-university-wide-covid-19-testing-dashboard,2877.0,3.0
 2021-04-07,Wednesday,35,Harvard University,31566,https://www.harvard.edu/coronavirus/harvard-university-wide-covid-19-testing-dashboard,3032.0,6.0
-2021-04-08,Thursday,35,Harvard University,31566,https://www.harvard.edu/coronavirus/harvard-university-wide-covid-19-testing-dashboard,3461.0,11.0
-2021-04-09,Friday,35,Harvard University,31566,https://www.harvard.edu/coronavirus/harvard-university-wide-covid-19-testing-dashboard,3041.0,5.0
-2021-04-10,Saturday,36,Harvard University,31566,https://www.harvard.edu/coronavirus/harvard-university-wide-covid-19-testing-dashboard,1097.0,9.0
-2021-04-11,Sunday,36,Harvard University,31566,https://www.harvard.edu/coronavirus/harvard-university-wide-covid-19-testing-dashboard,0.0,0.0
+2021-04-08,Thursday,35,Harvard University,31566,https://www.harvard.edu/coronavirus/harvard-university-wide-covid-19-testing-dashboard,3462.0,11.0
+2021-04-09,Friday,35,Harvard University,31566,https://www.harvard.edu/coronavirus/harvard-university-wide-covid-19-testing-dashboard,3056.0,5.0
+2021-04-10,Saturday,36,Harvard University,31566,https://www.harvard.edu/coronavirus/harvard-university-wide-covid-19-testing-dashboard,1339.0,11.0
+2021-04-11,Sunday,36,Harvard University,31566,https://www.harvard.edu/coronavirus/harvard-university-wide-covid-19-testing-dashboard,1814.0,4.0
+2021-04-12,Monday,36,Harvard University,31566,https://www.harvard.edu/coronavirus/harvard-university-wide-covid-19-testing-dashboard,4307.0,10.0
+2021-04-13,Tuesday,36,Harvard University,31566,https://www.harvard.edu/coronavirus/harvard-university-wide-covid-19-testing-dashboard,2859.0,4.0
+2021-04-14,Wednesday,36,Harvard University,31566,https://www.harvard.edu/coronavirus/harvard-university-wide-covid-19-testing-dashboard,3175.0,4.0
+2021-04-15,Thursday,36,Harvard University,31566,https://www.harvard.edu/coronavirus/harvard-university-wide-covid-19-testing-dashboard,3256.0,2.0
+2021-04-16,Friday,36,Harvard University,31566,https://www.harvard.edu/coronavirus/harvard-university-wide-covid-19-testing-dashboard,2584.0,3.0
+2021-04-17,Saturday,37,Harvard University,31566,https://www.harvard.edu/coronavirus/harvard-university-wide-covid-19-testing-dashboard,1373.0,2.0
+2021-04-18,Sunday,37,Harvard University,31566,https://www.harvard.edu/coronavirus/harvard-university-wide-covid-19-testing-dashboard,1648.0,0.0
+2021-04-19,Monday,37,Harvard University,31566,https://www.harvard.edu/coronavirus/harvard-university-wide-covid-19-testing-dashboard,4105.0,2.0
+2021-04-20,Tuesday,37,Harvard University,31566,https://www.harvard.edu/coronavirus/harvard-university-wide-covid-19-testing-dashboard,2875.0,3.0
+2021-04-21,Wednesday,37,Harvard University,31566,https://www.harvard.edu/coronavirus/harvard-university-wide-covid-19-testing-dashboard,3027.0,1.0
+2021-04-22,Thursday,37,Harvard University,31566,https://www.harvard.edu/coronavirus/harvard-university-wide-covid-19-testing-dashboard,3153.0,4.0
+2021-04-23,Friday,37,Harvard University,31566,https://www.harvard.edu/coronavirus/harvard-university-wide-covid-19-testing-dashboard,2936.0,1.0
+2021-04-24,Saturday,38,Harvard University,31566,https://www.harvard.edu/coronavirus/harvard-university-wide-covid-19-testing-dashboard,1119.0,1.0
+2021-04-25,Sunday,38,Harvard University,31566,https://www.harvard.edu/coronavirus/harvard-university-wide-covid-19-testing-dashboard,0.0,0.0
 2020-08-01,Saturday,0,University of Massachusetts-Boston,16164,https://www.umb.edu/coronavirus/dashboard,0.0,0.0
 2020-08-02,Sunday,0,University of Massachusetts-Boston,16164,https://www.umb.edu/coronavirus/dashboard,0.0,0.0
 2020-08-03,Monday,0,University of Massachusetts-Boston,16164,https://www.umb.edu/coronavirus/dashboard,0.0,0.0
@@ -3554,7 +3736,21 @@ date,day,week,university,enrollment,url,total_tests,positive_tests
 2021-04-08,Thursday,35,University of Massachusetts-Boston,16164,https://www.umb.edu/coronavirus/dashboard,0.0,0.0
 2021-04-09,Friday,35,University of Massachusetts-Boston,16164,https://www.umb.edu/coronavirus/dashboard,0.0,0.0
 2021-04-10,Saturday,36,University of Massachusetts-Boston,16164,https://www.umb.edu/coronavirus/dashboard,0.0,0.0
-2021-04-11,Sunday,36,University of Massachusetts-Boston,16164,https://www.umb.edu/coronavirus/dashboard,0.0,0.0
+2021-04-11,Sunday,36,University of Massachusetts-Boston,16164,https://www.umb.edu/coronavirus/dashboard,902.0,8.0
+2021-04-12,Monday,36,University of Massachusetts-Boston,16164,https://www.umb.edu/coronavirus/dashboard,0.0,0.0
+2021-04-13,Tuesday,36,University of Massachusetts-Boston,16164,https://www.umb.edu/coronavirus/dashboard,0.0,0.0
+2021-04-14,Wednesday,36,University of Massachusetts-Boston,16164,https://www.umb.edu/coronavirus/dashboard,0.0,0.0
+2021-04-15,Thursday,36,University of Massachusetts-Boston,16164,https://www.umb.edu/coronavirus/dashboard,0.0,0.0
+2021-04-16,Friday,36,University of Massachusetts-Boston,16164,https://www.umb.edu/coronavirus/dashboard,0.0,0.0
+2021-04-17,Saturday,37,University of Massachusetts-Boston,16164,https://www.umb.edu/coronavirus/dashboard,0.0,0.0
+2021-04-18,Sunday,37,University of Massachusetts-Boston,16164,https://www.umb.edu/coronavirus/dashboard,875.0,3.0
+2021-04-19,Monday,37,University of Massachusetts-Boston,16164,https://www.umb.edu/coronavirus/dashboard,0.0,0.0
+2021-04-20,Tuesday,37,University of Massachusetts-Boston,16164,https://www.umb.edu/coronavirus/dashboard,0.0,0.0
+2021-04-21,Wednesday,37,University of Massachusetts-Boston,16164,https://www.umb.edu/coronavirus/dashboard,0.0,0.0
+2021-04-22,Thursday,37,University of Massachusetts-Boston,16164,https://www.umb.edu/coronavirus/dashboard,0.0,0.0
+2021-04-23,Friday,37,University of Massachusetts-Boston,16164,https://www.umb.edu/coronavirus/dashboard,0.0,0.0
+2021-04-24,Saturday,38,University of Massachusetts-Boston,16164,https://www.umb.edu/coronavirus/dashboard,0.0,0.0
+2021-04-25,Sunday,38,University of Massachusetts-Boston,16164,https://www.umb.edu/coronavirus/dashboard,0.0,0.0
 2020-08-01,Saturday,0,Tufts University,11586,https://coronavirus.tufts.edu/testing-metrics,0.0,0.0
 2020-08-02,Sunday,0,Tufts University,11586,https://coronavirus.tufts.edu/testing-metrics,0.0,0.0
 2020-08-03,Monday,0,Tufts University,11586,https://coronavirus.tufts.edu/testing-metrics,0.0,0.0
@@ -3806,9 +4002,23 @@ date,day,week,university,enrollment,url,total_tests,positive_tests
 2021-04-06,Tuesday,35,Tufts University,11586,https://coronavirus.tufts.edu/testing-metrics,3367.0,7.0
 2021-04-07,Wednesday,35,Tufts University,11586,https://coronavirus.tufts.edu/testing-metrics,3367.0,7.0
 2021-04-08,Thursday,35,Tufts University,11586,https://coronavirus.tufts.edu/testing-metrics,3376.0,7.0
-2021-04-09,Friday,35,Tufts University,11586,https://coronavirus.tufts.edu/testing-metrics,0.0,0.0
-2021-04-10,Saturday,36,Tufts University,11586,https://coronavirus.tufts.edu/testing-metrics,0.0,0.0
-2021-04-11,Sunday,36,Tufts University,11586,https://coronavirus.tufts.edu/testing-metrics,0.0,0.0
+2021-04-09,Friday,35,Tufts University,11586,https://coronavirus.tufts.edu/testing-metrics,2510.0,2.0
+2021-04-10,Saturday,36,Tufts University,11586,https://coronavirus.tufts.edu/testing-metrics,2509.0,3.0
+2021-04-11,Sunday,36,Tufts University,11586,https://coronavirus.tufts.edu/testing-metrics,2346.0,3.0
+2021-04-12,Monday,36,Tufts University,11586,https://coronavirus.tufts.edu/testing-metrics,2852.0,3.0
+2021-04-13,Tuesday,36,Tufts University,11586,https://coronavirus.tufts.edu/testing-metrics,2852.0,3.0
+2021-04-14,Wednesday,36,Tufts University,11586,https://coronavirus.tufts.edu/testing-metrics,2852.0,4.0
+2021-04-15,Thursday,36,Tufts University,11586,https://coronavirus.tufts.edu/testing-metrics,1904.0,1.0
+2021-04-16,Friday,36,Tufts University,11586,https://coronavirus.tufts.edu/testing-metrics,1904.0,1.0
+2021-04-17,Saturday,37,Tufts University,11586,https://coronavirus.tufts.edu/testing-metrics,1904.0,1.0
+2021-04-18,Sunday,37,Tufts University,11586,https://coronavirus.tufts.edu/testing-metrics,1904.0,1.0
+2021-04-19,Monday,37,Tufts University,11586,https://coronavirus.tufts.edu/testing-metrics,1904.0,1.0
+2021-04-20,Tuesday,37,Tufts University,11586,https://coronavirus.tufts.edu/testing-metrics,3142.0,0.0
+2021-04-21,Wednesday,37,Tufts University,11586,https://coronavirus.tufts.edu/testing-metrics,2703.0,1.0
+2021-04-22,Thursday,37,Tufts University,11586,https://coronavirus.tufts.edu/testing-metrics,2703.0,1.0
+2021-04-23,Friday,37,Tufts University,11586,https://coronavirus.tufts.edu/testing-metrics,2702.0,1.0
+2021-04-24,Saturday,38,Tufts University,11586,https://coronavirus.tufts.edu/testing-metrics,0.0,0.0
+2021-04-25,Sunday,38,Tufts University,11586,https://coronavirus.tufts.edu/testing-metrics,0.0,0.0
 2020-08-01,Saturday,0,Boston College,14720,https://www.bc.edu/bc-web/sites/reopening-boston-college.html,0.0,0.0
 2020-08-02,Sunday,0,Boston College,14720,https://www.bc.edu/bc-web/sites/reopening-boston-college.html,0.0,0.0
 2020-08-03,Monday,0,Boston College,14720,https://www.bc.edu/bc-web/sites/reopening-boston-college.html,0.0,0.0
@@ -4056,13 +4266,27 @@ date,day,week,university,enrollment,url,total_tests,positive_tests
 2021-04-02,Friday,34,Boston College,14720,https://www.bc.edu/bc-web/sites/reopening-boston-college.html,0.0,0.0
 2021-04-03,Saturday,35,Boston College,14720,https://www.bc.edu/bc-web/sites/reopening-boston-college.html,0.0,0.0
 2021-04-04,Sunday,35,Boston College,14720,https://www.bc.edu/bc-web/sites/reopening-boston-college.html,0.0,0.0
-2021-04-05,Monday,35,Boston College,14720,https://www.bc.edu/bc-web/sites/reopening-boston-college.html,15855.0,40.0
+2021-04-05,Monday,35,Boston College,14720,https://www.bc.edu/bc-web/sites/reopening-boston-college.html,16256.0,46.0
 2021-04-06,Tuesday,35,Boston College,14720,https://www.bc.edu/bc-web/sites/reopening-boston-college.html,0.0,0.0
 2021-04-07,Wednesday,35,Boston College,14720,https://www.bc.edu/bc-web/sites/reopening-boston-college.html,0.0,0.0
 2021-04-08,Thursday,35,Boston College,14720,https://www.bc.edu/bc-web/sites/reopening-boston-college.html,0.0,0.0
 2021-04-09,Friday,35,Boston College,14720,https://www.bc.edu/bc-web/sites/reopening-boston-college.html,0.0,0.0
 2021-04-10,Saturday,36,Boston College,14720,https://www.bc.edu/bc-web/sites/reopening-boston-college.html,0.0,0.0
 2021-04-11,Sunday,36,Boston College,14720,https://www.bc.edu/bc-web/sites/reopening-boston-college.html,0.0,0.0
+2021-04-12,Monday,36,Boston College,14720,https://www.bc.edu/bc-web/sites/reopening-boston-college.html,12168.0,34.0
+2021-04-13,Tuesday,36,Boston College,14720,https://www.bc.edu/bc-web/sites/reopening-boston-college.html,0.0,0.0
+2021-04-14,Wednesday,36,Boston College,14720,https://www.bc.edu/bc-web/sites/reopening-boston-college.html,0.0,0.0
+2021-04-15,Thursday,36,Boston College,14720,https://www.bc.edu/bc-web/sites/reopening-boston-college.html,0.0,0.0
+2021-04-16,Friday,36,Boston College,14720,https://www.bc.edu/bc-web/sites/reopening-boston-college.html,0.0,0.0
+2021-04-17,Saturday,37,Boston College,14720,https://www.bc.edu/bc-web/sites/reopening-boston-college.html,0.0,0.0
+2021-04-18,Sunday,37,Boston College,14720,https://www.bc.edu/bc-web/sites/reopening-boston-college.html,0.0,0.0
+2021-04-19,Monday,37,Boston College,14720,https://www.bc.edu/bc-web/sites/reopening-boston-college.html,11329.0,19.0
+2021-04-20,Tuesday,37,Boston College,14720,https://www.bc.edu/bc-web/sites/reopening-boston-college.html,0.0,0.0
+2021-04-21,Wednesday,37,Boston College,14720,https://www.bc.edu/bc-web/sites/reopening-boston-college.html,0.0,0.0
+2021-04-22,Thursday,37,Boston College,14720,https://www.bc.edu/bc-web/sites/reopening-boston-college.html,0.0,0.0
+2021-04-23,Friday,37,Boston College,14720,https://www.bc.edu/bc-web/sites/reopening-boston-college.html,0.0,0.0
+2021-04-24,Saturday,38,Boston College,14720,https://www.bc.edu/bc-web/sites/reopening-boston-college.html,0.0,0.0
+2021-04-25,Sunday,38,Boston College,14720,https://www.bc.edu/bc-web/sites/reopening-boston-college.html,0.0,0.0
 2020-08-01,Saturday,0,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,0.0,0.0
 2020-08-02,Sunday,0,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,0.0,0.0
 2020-08-03,Monday,0,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,0.0,0.0
@@ -4308,15 +4532,29 @@ date,day,week,university,enrollment,url,total_tests,positive_tests
 2021-03-31,Wednesday,34,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,0.0,0.0
 2021-04-01,Thursday,34,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,0.0,0.0
 2021-04-02,Friday,34,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,0.0,0.0
-2021-04-03,Saturday,35,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,0.0,0.0
+2021-04-03,Saturday,35,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,327.0,5.0
 2021-04-04,Sunday,35,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,0.0,0.0
 2021-04-05,Monday,35,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,0.0,0.0
 2021-04-06,Tuesday,35,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,0.0,0.0
 2021-04-07,Wednesday,35,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,0.0,0.0
 2021-04-08,Thursday,35,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,0.0,0.0
 2021-04-09,Friday,35,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,0.0,0.0
-2021-04-10,Saturday,36,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,0.0,0.0
+2021-04-10,Saturday,36,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,304.0,11.0
 2021-04-11,Sunday,36,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,0.0,0.0
+2021-04-12,Monday,36,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,0.0,0.0
+2021-04-13,Tuesday,36,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,0.0,0.0
+2021-04-14,Wednesday,36,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,0.0,0.0
+2021-04-15,Thursday,36,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,0.0,0.0
+2021-04-16,Friday,36,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,0.0,0.0
+2021-04-17,Saturday,37,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,289.0,10.0
+2021-04-18,Sunday,37,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,0.0,0.0
+2021-04-19,Monday,37,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,0.0,0.0
+2021-04-20,Tuesday,37,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,0.0,0.0
+2021-04-21,Wednesday,37,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,0.0,0.0
+2021-04-22,Thursday,37,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,0.0,0.0
+2021-04-23,Friday,37,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,0.0,0.0
+2021-04-24,Saturday,38,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,0.0,0.0
+2021-04-25,Sunday,38,Eastern Nazarene College,848,https://enc.edu/covid-19-campus-testing/,0.0,0.0
 2020-08-01,Saturday,0,Curry College,2580,https://www.curry.edu/about-us/keep-curry-safe/return-to-campus-health-and-safety/on-campus-testing-results,0.0,0.0
 2020-08-02,Sunday,0,Curry College,2580,https://www.curry.edu/about-us/keep-curry-safe/return-to-campus-health-and-safety/on-campus-testing-results,0.0,0.0
 2020-08-03,Monday,0,Curry College,2580,https://www.curry.edu/about-us/keep-curry-safe/return-to-campus-health-and-safety/on-campus-testing-results,0.0,0.0
@@ -4568,9 +4806,23 @@ date,day,week,university,enrollment,url,total_tests,positive_tests
 2021-04-06,Tuesday,35,Curry College,2580,https://www.curry.edu/about-us/keep-curry-safe/return-to-campus-health-and-safety/on-campus-testing-results,0.0,0.0
 2021-04-07,Wednesday,35,Curry College,2580,https://www.curry.edu/about-us/keep-curry-safe/return-to-campus-health-and-safety/on-campus-testing-results,0.0,0.0
 2021-04-08,Thursday,35,Curry College,2580,https://www.curry.edu/about-us/keep-curry-safe/return-to-campus-health-and-safety/on-campus-testing-results,0.0,0.0
-2021-04-09,Friday,35,Curry College,2580,https://www.curry.edu/about-us/keep-curry-safe/return-to-campus-health-and-safety/on-campus-testing-results,0.0,0.0
+2021-04-09,Friday,35,Curry College,2580,https://www.curry.edu/about-us/keep-curry-safe/return-to-campus-health-and-safety/on-campus-testing-results,1729.0,3.0
 2021-04-10,Saturday,36,Curry College,2580,https://www.curry.edu/about-us/keep-curry-safe/return-to-campus-health-and-safety/on-campus-testing-results,0.0,0.0
 2021-04-11,Sunday,36,Curry College,2580,https://www.curry.edu/about-us/keep-curry-safe/return-to-campus-health-and-safety/on-campus-testing-results,0.0,0.0
+2021-04-12,Monday,36,Curry College,2580,https://www.curry.edu/about-us/keep-curry-safe/return-to-campus-health-and-safety/on-campus-testing-results,0.0,0.0
+2021-04-13,Tuesday,36,Curry College,2580,https://www.curry.edu/about-us/keep-curry-safe/return-to-campus-health-and-safety/on-campus-testing-results,0.0,0.0
+2021-04-14,Wednesday,36,Curry College,2580,https://www.curry.edu/about-us/keep-curry-safe/return-to-campus-health-and-safety/on-campus-testing-results,0.0,0.0
+2021-04-15,Thursday,36,Curry College,2580,https://www.curry.edu/about-us/keep-curry-safe/return-to-campus-health-and-safety/on-campus-testing-results,0.0,0.0
+2021-04-16,Friday,36,Curry College,2580,https://www.curry.edu/about-us/keep-curry-safe/return-to-campus-health-and-safety/on-campus-testing-results,1644.0,1.0
+2021-04-17,Saturday,37,Curry College,2580,https://www.curry.edu/about-us/keep-curry-safe/return-to-campus-health-and-safety/on-campus-testing-results,0.0,0.0
+2021-04-18,Sunday,37,Curry College,2580,https://www.curry.edu/about-us/keep-curry-safe/return-to-campus-health-and-safety/on-campus-testing-results,0.0,0.0
+2021-04-19,Monday,37,Curry College,2580,https://www.curry.edu/about-us/keep-curry-safe/return-to-campus-health-and-safety/on-campus-testing-results,0.0,0.0
+2021-04-20,Tuesday,37,Curry College,2580,https://www.curry.edu/about-us/keep-curry-safe/return-to-campus-health-and-safety/on-campus-testing-results,0.0,0.0
+2021-04-21,Wednesday,37,Curry College,2580,https://www.curry.edu/about-us/keep-curry-safe/return-to-campus-health-and-safety/on-campus-testing-results,0.0,0.0
+2021-04-22,Thursday,37,Curry College,2580,https://www.curry.edu/about-us/keep-curry-safe/return-to-campus-health-and-safety/on-campus-testing-results,0.0,0.0
+2021-04-23,Friday,37,Curry College,2580,https://www.curry.edu/about-us/keep-curry-safe/return-to-campus-health-and-safety/on-campus-testing-results,0.0,0.0
+2021-04-24,Saturday,38,Curry College,2580,https://www.curry.edu/about-us/keep-curry-safe/return-to-campus-health-and-safety/on-campus-testing-results,0.0,0.0
+2021-04-25,Sunday,38,Curry College,2580,https://www.curry.edu/about-us/keep-curry-safe/return-to-campus-health-and-safety/on-campus-testing-results,0.0,0.0
 2020-08-01,Saturday,0,Bentley University,5460,https://www.bentley.edu/backtobentley/dashboard,0.0,0.0
 2020-08-02,Sunday,0,Bentley University,5460,https://www.bentley.edu/backtobentley/dashboard,0.0,0.0
 2020-08-03,Monday,0,Bentley University,5460,https://www.bentley.edu/backtobentley/dashboard,0.0,0.0
@@ -4822,9 +5074,23 @@ date,day,week,university,enrollment,url,total_tests,positive_tests
 2021-04-06,Tuesday,35,Bentley University,5460,https://www.bentley.edu/backtobentley/dashboard,635.0,2.0
 2021-04-07,Wednesday,35,Bentley University,5460,https://www.bentley.edu/backtobentley/dashboard,711.0,1.0
 2021-04-08,Thursday,35,Bentley University,5460,https://www.bentley.edu/backtobentley/dashboard,1488.0,2.0
-2021-04-09,Friday,35,Bentley University,5460,https://www.bentley.edu/backtobentley/dashboard,0.0,0.0
-2021-04-10,Saturday,36,Bentley University,5460,https://www.bentley.edu/backtobentley/dashboard,0.0,0.0
-2021-04-11,Sunday,36,Bentley University,5460,https://www.bentley.edu/backtobentley/dashboard,0.0,0.0
+2021-04-09,Friday,35,Bentley University,5460,https://www.bentley.edu/backtobentley/dashboard,31.0,2.0
+2021-04-10,Saturday,36,Bentley University,5460,https://www.bentley.edu/backtobentley/dashboard,32.0,1.0
+2021-04-11,Sunday,36,Bentley University,5460,https://www.bentley.edu/backtobentley/dashboard,31.0,0.0
+2021-04-12,Monday,36,Bentley University,5460,https://www.bentley.edu/backtobentley/dashboard,1435.0,3.0
+2021-04-13,Tuesday,36,Bentley University,5460,https://www.bentley.edu/backtobentley/dashboard,711.0,1.0
+2021-04-14,Wednesday,36,Bentley University,5460,https://www.bentley.edu/backtobentley/dashboard,727.0,1.0
+2021-04-15,Thursday,36,Bentley University,5460,https://www.bentley.edu/backtobentley/dashboard,1494.0,3.0
+2021-04-16,Friday,36,Bentley University,5460,https://www.bentley.edu/backtobentley/dashboard,13.0,1.0
+2021-04-17,Saturday,37,Bentley University,5460,https://www.bentley.edu/backtobentley/dashboard,32.0,0.0
+2021-04-18,Sunday,37,Bentley University,5460,https://www.bentley.edu/backtobentley/dashboard,44.0,0.0
+2021-04-19,Monday,37,Bentley University,5460,https://www.bentley.edu/backtobentley/dashboard,1047.0,2.0
+2021-04-20,Tuesday,37,Bentley University,5460,https://www.bentley.edu/backtobentley/dashboard,869.0,1.0
+2021-04-21,Wednesday,37,Bentley University,5460,https://www.bentley.edu/backtobentley/dashboard,628.0,1.0
+2021-04-22,Thursday,37,Bentley University,5460,https://www.bentley.edu/backtobentley/dashboard,1572.0,0.0
+2021-04-23,Friday,37,Bentley University,5460,https://www.bentley.edu/backtobentley/dashboard,0.0,0.0
+2021-04-24,Saturday,38,Bentley University,5460,https://www.bentley.edu/backtobentley/dashboard,0.0,0.0
+2021-04-25,Sunday,38,Bentley University,5460,https://www.bentley.edu/backtobentley/dashboard,0.0,0.0
 2020-08-01,Saturday,0,Lasell University,2060,https://www.lasell.edu/admissions/covid-19-information/covid-19-dashboard.html,0.0,0.0
 2020-08-02,Sunday,0,Lasell University,2060,https://www.lasell.edu/admissions/covid-19-information/covid-19-dashboard.html,0.0,0.0
 2020-08-03,Monday,0,Lasell University,2060,https://www.lasell.edu/admissions/covid-19-information/covid-19-dashboard.html,0.0,0.0
@@ -5079,6 +5345,20 @@ date,day,week,university,enrollment,url,total_tests,positive_tests
 2021-04-09,Friday,35,Lasell University,2060,https://www.lasell.edu/admissions/covid-19-information/covid-19-dashboard.html,303.0,0.0
 2021-04-10,Saturday,36,Lasell University,2060,https://www.lasell.edu/admissions/covid-19-information/covid-19-dashboard.html,0.0,0.0
 2021-04-11,Sunday,36,Lasell University,2060,https://www.lasell.edu/admissions/covid-19-information/covid-19-dashboard.html,0.0,0.0
+2021-04-12,Monday,36,Lasell University,2060,https://www.lasell.edu/admissions/covid-19-information/covid-19-dashboard.html,552.0,1.0
+2021-04-13,Tuesday,36,Lasell University,2060,https://www.lasell.edu/admissions/covid-19-information/covid-19-dashboard.html,308.0,1.0
+2021-04-14,Wednesday,36,Lasell University,2060,https://www.lasell.edu/admissions/covid-19-information/covid-19-dashboard.html,202.0,1.0
+2021-04-15,Thursday,36,Lasell University,2060,https://www.lasell.edu/admissions/covid-19-information/covid-19-dashboard.html,468.0,0.0
+2021-04-16,Friday,36,Lasell University,2060,https://www.lasell.edu/admissions/covid-19-information/covid-19-dashboard.html,259.0,0.0
+2021-04-17,Saturday,37,Lasell University,2060,https://www.lasell.edu/admissions/covid-19-information/covid-19-dashboard.html,0.0,0.0
+2021-04-18,Sunday,37,Lasell University,2060,https://www.lasell.edu/admissions/covid-19-information/covid-19-dashboard.html,0.0,0.0
+2021-04-19,Monday,37,Lasell University,2060,https://www.lasell.edu/admissions/covid-19-information/covid-19-dashboard.html,51.0,0.0
+2021-04-20,Tuesday,37,Lasell University,2060,https://www.lasell.edu/admissions/covid-19-information/covid-19-dashboard.html,627.0,1.0
+2021-04-21,Wednesday,37,Lasell University,2060,https://www.lasell.edu/admissions/covid-19-information/covid-19-dashboard.html,209.0,2.0
+2021-04-22,Thursday,37,Lasell University,2060,https://www.lasell.edu/admissions/covid-19-information/covid-19-dashboard.html,400.0,0.0
+2021-04-23,Friday,37,Lasell University,2060,https://www.lasell.edu/admissions/covid-19-information/covid-19-dashboard.html,342.0,0.0
+2021-04-24,Saturday,38,Lasell University,2060,https://www.lasell.edu/admissions/covid-19-information/covid-19-dashboard.html,0.0,0.0
+2021-04-25,Sunday,38,Lasell University,2060,https://www.lasell.edu/admissions/covid-19-information/covid-19-dashboard.html,0.0,0.0
 2020-08-01,Saturday,0,Brandeis University,5800,https://www.brandeis.edu/covid-19/dashboard.html,0.0,0.0
 2020-08-02,Sunday,0,Brandeis University,5800,https://www.brandeis.edu/covid-19/dashboard.html,0.0,0.0
 2020-08-03,Monday,0,Brandeis University,5800,https://www.brandeis.edu/covid-19/dashboard.html,0.0,0.0
@@ -5325,14 +5605,28 @@ date,day,week,university,enrollment,url,total_tests,positive_tests
 2021-04-01,Thursday,34,Brandeis University,5800,https://www.brandeis.edu/covid-19/dashboard.html,0.0,0.0
 2021-04-02,Friday,34,Brandeis University,5800,https://www.brandeis.edu/covid-19/dashboard.html,0.0,0.0
 2021-04-03,Saturday,35,Brandeis University,5800,https://www.brandeis.edu/covid-19/dashboard.html,0.0,0.0
-2021-04-04,Sunday,35,Brandeis University,5800,https://www.brandeis.edu/covid-19/dashboard.html,4658.0,6.0
+2021-04-04,Sunday,35,Brandeis University,5800,https://www.brandeis.edu/covid-19/dashboard.html,6264.0,6.0
 2021-04-05,Monday,35,Brandeis University,5800,https://www.brandeis.edu/covid-19/dashboard.html,0.0,0.0
 2021-04-06,Tuesday,35,Brandeis University,5800,https://www.brandeis.edu/covid-19/dashboard.html,0.0,0.0
 2021-04-07,Wednesday,35,Brandeis University,5800,https://www.brandeis.edu/covid-19/dashboard.html,0.0,0.0
 2021-04-08,Thursday,35,Brandeis University,5800,https://www.brandeis.edu/covid-19/dashboard.html,0.0,0.0
 2021-04-09,Friday,35,Brandeis University,5800,https://www.brandeis.edu/covid-19/dashboard.html,0.0,0.0
 2021-04-10,Saturday,36,Brandeis University,5800,https://www.brandeis.edu/covid-19/dashboard.html,0.0,0.0
-2021-04-11,Sunday,36,Brandeis University,5800,https://www.brandeis.edu/covid-19/dashboard.html,0.0,0.0
+2021-04-11,Sunday,36,Brandeis University,5800,https://www.brandeis.edu/covid-19/dashboard.html,5997.0,1.0
+2021-04-12,Monday,36,Brandeis University,5800,https://www.brandeis.edu/covid-19/dashboard.html,0.0,0.0
+2021-04-13,Tuesday,36,Brandeis University,5800,https://www.brandeis.edu/covid-19/dashboard.html,0.0,0.0
+2021-04-14,Wednesday,36,Brandeis University,5800,https://www.brandeis.edu/covid-19/dashboard.html,0.0,0.0
+2021-04-15,Thursday,36,Brandeis University,5800,https://www.brandeis.edu/covid-19/dashboard.html,0.0,0.0
+2021-04-16,Friday,36,Brandeis University,5800,https://www.brandeis.edu/covid-19/dashboard.html,0.0,0.0
+2021-04-17,Saturday,37,Brandeis University,5800,https://www.brandeis.edu/covid-19/dashboard.html,0.0,0.0
+2021-04-18,Sunday,37,Brandeis University,5800,https://www.brandeis.edu/covid-19/dashboard.html,4705.0,1.0
+2021-04-19,Monday,37,Brandeis University,5800,https://www.brandeis.edu/covid-19/dashboard.html,0.0,0.0
+2021-04-20,Tuesday,37,Brandeis University,5800,https://www.brandeis.edu/covid-19/dashboard.html,0.0,0.0
+2021-04-21,Wednesday,37,Brandeis University,5800,https://www.brandeis.edu/covid-19/dashboard.html,0.0,0.0
+2021-04-22,Thursday,37,Brandeis University,5800,https://www.brandeis.edu/covid-19/dashboard.html,0.0,0.0
+2021-04-23,Friday,37,Brandeis University,5800,https://www.brandeis.edu/covid-19/dashboard.html,0.0,0.0
+2021-04-24,Saturday,38,Brandeis University,5800,https://www.brandeis.edu/covid-19/dashboard.html,0.0,0.0
+2021-04-25,Sunday,38,Brandeis University,5800,https://www.brandeis.edu/covid-19/dashboard.html,0.0,0.0
 2020-08-01,Saturday,0,Babson College,2905,https://www.babson.edu/emergency-preparedness/return-to-campus/covid-dashboard/,0.0,0.0
 2020-08-02,Sunday,0,Babson College,2905,https://www.babson.edu/emergency-preparedness/return-to-campus/covid-dashboard/,0.0,0.0
 2020-08-03,Monday,0,Babson College,2905,https://www.babson.edu/emergency-preparedness/return-to-campus/covid-dashboard/,0.0,0.0
@@ -5582,11 +5876,25 @@ date,day,week,university,enrollment,url,total_tests,positive_tests
 2021-04-04,Sunday,35,Babson College,2905,https://www.babson.edu/emergency-preparedness/return-to-campus/covid-dashboard/,2.0,0.0
 2021-04-05,Monday,35,Babson College,2905,https://www.babson.edu/emergency-preparedness/return-to-campus/covid-dashboard/,1323.0,18.0
 2021-04-06,Tuesday,35,Babson College,2905,https://www.babson.edu/emergency-preparedness/return-to-campus/covid-dashboard/,594.0,5.0
-2021-04-07,Wednesday,35,Babson College,2905,https://www.babson.edu/emergency-preparedness/return-to-campus/covid-dashboard/,0.0,0.0
-2021-04-08,Thursday,35,Babson College,2905,https://www.babson.edu/emergency-preparedness/return-to-campus/covid-dashboard/,0.0,0.0
-2021-04-09,Friday,35,Babson College,2905,https://www.babson.edu/emergency-preparedness/return-to-campus/covid-dashboard/,0.0,0.0
+2021-04-07,Wednesday,35,Babson College,2905,https://www.babson.edu/emergency-preparedness/return-to-campus/covid-dashboard/,351.0,4.0
+2021-04-08,Thursday,35,Babson College,2905,https://www.babson.edu/emergency-preparedness/return-to-campus/covid-dashboard/,1088.0,3.0
+2021-04-09,Friday,35,Babson College,2905,https://www.babson.edu/emergency-preparedness/return-to-campus/covid-dashboard/,527.0,0.0
 2021-04-10,Saturday,36,Babson College,2905,https://www.babson.edu/emergency-preparedness/return-to-campus/covid-dashboard/,0.0,0.0
-2021-04-11,Sunday,36,Babson College,2905,https://www.babson.edu/emergency-preparedness/return-to-campus/covid-dashboard/,0.0,0.0
+2021-04-11,Sunday,36,Babson College,2905,https://www.babson.edu/emergency-preparedness/return-to-campus/covid-dashboard/,2.0,0.0
+2021-04-12,Monday,36,Babson College,2905,https://www.babson.edu/emergency-preparedness/return-to-campus/covid-dashboard/,1239.0,6.0
+2021-04-13,Tuesday,36,Babson College,2905,https://www.babson.edu/emergency-preparedness/return-to-campus/covid-dashboard/,591.0,3.0
+2021-04-14,Wednesday,36,Babson College,2905,https://www.babson.edu/emergency-preparedness/return-to-campus/covid-dashboard/,296.0,3.0
+2021-04-15,Thursday,36,Babson College,2905,https://www.babson.edu/emergency-preparedness/return-to-campus/covid-dashboard/,1023.0,4.0
+2021-04-16,Friday,36,Babson College,2905,https://www.babson.edu/emergency-preparedness/return-to-campus/covid-dashboard/,490.0,3.0
+2021-04-17,Saturday,37,Babson College,2905,https://www.babson.edu/emergency-preparedness/return-to-campus/covid-dashboard/,0.0,0.0
+2021-04-18,Sunday,37,Babson College,2905,https://www.babson.edu/emergency-preparedness/return-to-campus/covid-dashboard/,2.0,0.0
+2021-04-19,Monday,37,Babson College,2905,https://www.babson.edu/emergency-preparedness/return-to-campus/covid-dashboard/,1078.0,3.0
+2021-04-20,Tuesday,37,Babson College,2905,https://www.babson.edu/emergency-preparedness/return-to-campus/covid-dashboard/,502.0,0.0
+2021-04-21,Wednesday,37,Babson College,2905,https://www.babson.edu/emergency-preparedness/return-to-campus/covid-dashboard/,230.0,3.0
+2021-04-22,Thursday,37,Babson College,2905,https://www.babson.edu/emergency-preparedness/return-to-campus/covid-dashboard/,815.0,3.0
+2021-04-23,Friday,37,Babson College,2905,https://www.babson.edu/emergency-preparedness/return-to-campus/covid-dashboard/,511.0,0.0
+2021-04-24,Saturday,38,Babson College,2905,https://www.babson.edu/emergency-preparedness/return-to-campus/covid-dashboard/,0.0,0.0
+2021-04-25,Sunday,38,Babson College,2905,https://www.babson.edu/emergency-preparedness/return-to-campus/covid-dashboard/,0.0,0.0
 2020-08-01,Saturday,0,Regis College,2757,https://www.regiscollege.edu/covid-19/reporting-and-testing/weekly-reporting,0.0,0.0
 2020-08-02,Sunday,0,Regis College,2757,https://www.regiscollege.edu/covid-19/reporting-and-testing/weekly-reporting,0.0,0.0
 2020-08-03,Monday,0,Regis College,2757,https://www.regiscollege.edu/covid-19/reporting-and-testing/weekly-reporting,0.0,0.0
@@ -5833,14 +6141,28 @@ date,day,week,university,enrollment,url,total_tests,positive_tests
 2021-04-01,Thursday,34,Regis College,2757,https://www.regiscollege.edu/covid-19/reporting-and-testing/weekly-reporting,0.0,0.0
 2021-04-02,Friday,34,Regis College,2757,https://www.regiscollege.edu/covid-19/reporting-and-testing/weekly-reporting,0.0,0.0
 2021-04-03,Saturday,35,Regis College,2757,https://www.regiscollege.edu/covid-19/reporting-and-testing/weekly-reporting,0.0,0.0
-2021-04-04,Sunday,35,Regis College,2757,https://www.regiscollege.edu/covid-19/reporting-and-testing/weekly-reporting,0.0,0.0
+2021-04-04,Sunday,35,Regis College,2757,https://www.regiscollege.edu/covid-19/reporting-and-testing/weekly-reporting,1209.0,1.0
 2021-04-05,Monday,35,Regis College,2757,https://www.regiscollege.edu/covid-19/reporting-and-testing/weekly-reporting,0.0,0.0
 2021-04-06,Tuesday,35,Regis College,2757,https://www.regiscollege.edu/covid-19/reporting-and-testing/weekly-reporting,0.0,0.0
 2021-04-07,Wednesday,35,Regis College,2757,https://www.regiscollege.edu/covid-19/reporting-and-testing/weekly-reporting,0.0,0.0
 2021-04-08,Thursday,35,Regis College,2757,https://www.regiscollege.edu/covid-19/reporting-and-testing/weekly-reporting,0.0,0.0
 2021-04-09,Friday,35,Regis College,2757,https://www.regiscollege.edu/covid-19/reporting-and-testing/weekly-reporting,0.0,0.0
 2021-04-10,Saturday,36,Regis College,2757,https://www.regiscollege.edu/covid-19/reporting-and-testing/weekly-reporting,0.0,0.0
-2021-04-11,Sunday,36,Regis College,2757,https://www.regiscollege.edu/covid-19/reporting-and-testing/weekly-reporting,0.0,0.0
+2021-04-11,Sunday,36,Regis College,2757,https://www.regiscollege.edu/covid-19/reporting-and-testing/weekly-reporting,1184.0,0.0
+2021-04-12,Monday,36,Regis College,2757,https://www.regiscollege.edu/covid-19/reporting-and-testing/weekly-reporting,0.0,0.0
+2021-04-13,Tuesday,36,Regis College,2757,https://www.regiscollege.edu/covid-19/reporting-and-testing/weekly-reporting,0.0,0.0
+2021-04-14,Wednesday,36,Regis College,2757,https://www.regiscollege.edu/covid-19/reporting-and-testing/weekly-reporting,0.0,0.0
+2021-04-15,Thursday,36,Regis College,2757,https://www.regiscollege.edu/covid-19/reporting-and-testing/weekly-reporting,0.0,0.0
+2021-04-16,Friday,36,Regis College,2757,https://www.regiscollege.edu/covid-19/reporting-and-testing/weekly-reporting,0.0,0.0
+2021-04-17,Saturday,37,Regis College,2757,https://www.regiscollege.edu/covid-19/reporting-and-testing/weekly-reporting,0.0,0.0
+2021-04-18,Sunday,37,Regis College,2757,https://www.regiscollege.edu/covid-19/reporting-and-testing/weekly-reporting,0.0,0.0
+2021-04-19,Monday,37,Regis College,2757,https://www.regiscollege.edu/covid-19/reporting-and-testing/weekly-reporting,0.0,0.0
+2021-04-20,Tuesday,37,Regis College,2757,https://www.regiscollege.edu/covid-19/reporting-and-testing/weekly-reporting,0.0,0.0
+2021-04-21,Wednesday,37,Regis College,2757,https://www.regiscollege.edu/covid-19/reporting-and-testing/weekly-reporting,0.0,0.0
+2021-04-22,Thursday,37,Regis College,2757,https://www.regiscollege.edu/covid-19/reporting-and-testing/weekly-reporting,0.0,0.0
+2021-04-23,Friday,37,Regis College,2757,https://www.regiscollege.edu/covid-19/reporting-and-testing/weekly-reporting,0.0,0.0
+2021-04-24,Saturday,38,Regis College,2757,https://www.regiscollege.edu/covid-19/reporting-and-testing/weekly-reporting,0.0,0.0
+2021-04-25,Sunday,38,Regis College,2757,https://www.regiscollege.edu/covid-19/reporting-and-testing/weekly-reporting,0.0,0.0
 2020-08-01,Saturday,0,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
 2020-08-02,Sunday,0,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
 2020-08-03,Monday,0,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
@@ -6025,73 +6347,87 @@ date,day,week,university,enrollment,url,total_tests,positive_tests
 2021-01-29,Friday,25,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
 2021-01-30,Saturday,26,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
 2021-01-31,Sunday,26,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
-2021-02-01,Monday,26,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,107.0,0.0
+2021-02-01,Monday,26,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,51.0,0.0
 2021-02-02,Tuesday,26,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
-2021-02-03,Wednesday,26,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,31.0,0.0
-2021-02-04,Thursday,26,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,100.0,0.0
-2021-02-05,Friday,26,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,100.0,0.0
-2021-02-06,Saturday,27,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,100.0,0.0
-2021-02-07,Sunday,27,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,200.0,1.0
-2021-02-08,Monday,27,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,220.0,0.0
-2021-02-09,Tuesday,27,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,250.0,0.0
-2021-02-10,Wednesday,27,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,200.0,0.0
-2021-02-11,Thursday,27,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,315.0,0.0
-2021-02-12,Friday,27,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,593.0,0.0
-2021-02-13,Saturday,28,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,304.0,2.0
-2021-02-14,Sunday,28,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,304.0,0.0
-2021-02-15,Monday,28,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,514.0,1.0
-2021-02-16,Tuesday,28,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,513.0,1.0
-2021-02-17,Wednesday,28,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,514.0,0.0
-2021-02-18,Thursday,28,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,707.0,0.0
-2021-02-19,Friday,28,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,587.0,0.0
-2021-02-20,Saturday,29,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,401.0,1.0
-2021-02-21,Sunday,29,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,401.0,1.0
-2021-02-22,Monday,29,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,371.0,0.0
-2021-02-23,Tuesday,29,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,90.0,0.0
-2021-02-24,Wednesday,29,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,678.0,0.0
-2021-02-25,Thursday,29,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,479.0,0.0
-2021-02-26,Friday,29,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,639.0,1.0
-2021-02-27,Saturday,30,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,639.0,0.0
-2021-02-28,Sunday,30,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,638.0,0.0
+2021-02-03,Wednesday,26,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-02-04,Thursday,26,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-02-05,Friday,26,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-02-06,Saturday,27,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,699.0,1.0
+2021-02-07,Sunday,27,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-02-08,Monday,27,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-02-09,Tuesday,27,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-02-10,Wednesday,27,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-02-11,Thursday,27,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-02-12,Friday,27,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-02-13,Saturday,28,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,2232.0,1.0
+2021-02-14,Sunday,28,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-02-15,Monday,28,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-02-16,Tuesday,28,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-02-17,Wednesday,28,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-02-18,Thursday,28,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,1898.0,3.0
+2021-02-19,Friday,28,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-02-20,Saturday,29,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-02-21,Sunday,29,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-02-22,Monday,29,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-02-23,Tuesday,29,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-02-24,Wednesday,29,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-02-25,Thursday,29,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,2938.0,1.0
+2021-02-26,Friday,29,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-02-27,Saturday,30,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-02-28,Sunday,30,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
 2021-03-01,Monday,30,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
-2021-03-02,Tuesday,30,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,1.0
-2021-03-03,Wednesday,30,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,844.0,1.0
-2021-03-04,Thursday,30,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,844.0,0.0
-2021-03-05,Friday,30,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,845.0,0.0
-2021-03-06,Saturday,31,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,845.0,0.0
-2021-03-07,Sunday,31,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,638.0,0.0
-2021-03-08,Monday,31,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,229.0,1.0
-2021-03-09,Tuesday,31,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,230.0,1.0
-2021-03-10,Wednesday,31,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,500.0,0.0
-2021-03-11,Thursday,31,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,439.0,0.0
-2021-03-12,Friday,31,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,447.0,1.0
-2021-03-13,Saturday,32,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,448.0,1.0
-2021-03-14,Sunday,32,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,448.0,1.0
-2021-03-15,Monday,32,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,448.0,1.0
-2021-03-16,Tuesday,32,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,448.0,0.0
-2021-03-17,Wednesday,32,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,1166.0,0.0
-2021-03-18,Thursday,32,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,257.0,0.0
-2021-03-19,Friday,32,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,569.0,1.0
-2021-03-20,Saturday,33,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,569.0,1.0
-2021-03-21,Sunday,33,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,569.0,1.0
-2021-03-22,Monday,33,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,495.0,1.0
-2021-03-23,Tuesday,33,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,495.0,0.0
-2021-03-24,Wednesday,33,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,496.0,0.0
-2021-03-25,Thursday,33,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,496.0,0.0
-2021-03-26,Friday,33,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,689.0,0.0
-2021-03-27,Saturday,34,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,688.0,1.0
-2021-03-28,Sunday,34,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,683.0,1.0
+2021-03-02,Tuesday,30,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-03-03,Wednesday,30,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-03-04,Thursday,30,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,2736.0,2.0
+2021-03-05,Friday,30,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-03-06,Saturday,31,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-03-07,Sunday,31,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-03-08,Monday,31,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-03-09,Tuesday,31,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-03-10,Wednesday,31,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-03-11,Thursday,31,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,2737.0,2.0
+2021-03-12,Friday,31,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-03-13,Saturday,32,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-03-14,Sunday,32,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-03-15,Monday,32,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-03-16,Tuesday,32,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-03-17,Wednesday,32,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-03-18,Thursday,32,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,2726.0,3.0
+2021-03-19,Friday,32,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-03-20,Saturday,33,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-03-21,Sunday,33,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-03-22,Monday,33,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-03-23,Tuesday,33,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-03-24,Wednesday,33,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-03-25,Thursday,33,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,3455.0,3.0
+2021-03-26,Friday,33,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-03-27,Saturday,34,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-03-28,Sunday,34,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
 2021-03-29,Monday,34,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
-2021-03-30,Tuesday,34,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,800.0,0.0
-2021-03-31,Wednesday,34,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,505.0,1.0
-2021-04-01,Thursday,34,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,701.0,1.0
-2021-04-02,Friday,34,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,602.0,0.0
-2021-04-03,Saturday,35,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,703.0,0.0
-2021-04-04,Sunday,35,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,1.0
+2021-03-30,Tuesday,34,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-03-31,Wednesday,34,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-04-01,Thursday,34,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,2012.0,3.0
+2021-04-02,Friday,34,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-04-03,Saturday,35,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-04-04,Sunday,35,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
 2021-04-05,Monday,35,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
-2021-04-06,Tuesday,35,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,1000.0,1.0
-2021-04-07,Wednesday,35,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,1013.0,0.0
-2021-04-08,Thursday,35,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,500.0,0.0
-2021-04-09,Friday,35,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,600.0,0.0
-2021-04-10,Saturday,36,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,491.0,0.0
+2021-04-06,Tuesday,35,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-04-07,Wednesday,35,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-04-08,Thursday,35,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,2641.0,0.0
+2021-04-09,Friday,35,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-04-10,Saturday,36,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
 2021-04-11,Sunday,36,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-04-12,Monday,36,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-04-13,Tuesday,36,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-04-14,Wednesday,36,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-04-15,Thursday,36,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,2694.0,1.0
+2021-04-16,Friday,36,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-04-17,Saturday,37,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-04-18,Sunday,37,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-04-19,Monday,37,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,1484.0,0.0
+2021-04-20,Tuesday,37,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-04-21,Wednesday,37,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,475.0,0.0
+2021-04-22,Thursday,37,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-04-23,Friday,37,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,517.0,0.0
+2021-04-24,Saturday,38,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
+2021-04-25,Sunday,38,Wellesley College,2534,https://www.wellesley.edu/coronavirus/dashboard,0.0,0.0
